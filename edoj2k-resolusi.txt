@@ -1,0 +1,5 @@
+Halo, saya edoj2k dari medan
+
+Resolusi saya :
+- Membuat website dengan menggunakn framework javascript
+- Bekerja di startup
